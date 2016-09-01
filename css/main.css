@@ -1,0 +1,37 @@
+body {
+	background-image: url("../img/tranquil.png");
+}
+
+.col-lg-12 {
+	text-align: center;
+}
+
+h1 {
+	font-size: 60px;
+	font-weight: bold;
+
+}
+
+h2 {
+	font-size: 35px;	
+}
+
+p {
+	font-style: italic;
+} 
+
+#sign {
+	height: 25px;
+	width: 15%;
+	text-align: center;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.btn {
+	font-weight: bold;
+	border-radius: 8px;
+	border: 2px;
+	height: 25px;
+    background-color: #75a2f5;
+}
